@@ -1,7 +1,6 @@
 # Virtual-Paint in Python
 Draw virtually using any colored pen.
-```
-```
+
 <img src="">
 
 ## Prerequisites
