@@ -1,7 +1,7 @@
 # Virtual-Paint in Python
 Draw virtually using any colored pen.
 
-<img src="">
+<!-- <img src=""> -->
 
 ## Prerequisites
 1. Install Python 3.7.6 from [here](https://www.python.org/downloads/release/python-376/).
